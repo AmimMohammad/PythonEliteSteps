@@ -35,32 +35,33 @@ for inputis in user_Inputs:
     else:
         others.append(inputis)
 
+print("\n\n")
 
-print("Integers are :\n")
+print("Integers are :")
 for x in integer:
     print(x)
 
 print("\n\n\n")
 
-print("Strings are :\n")
+print("Strings are :")
 for x in strings:
     print(x)
 
 print("\n\n\n")
 
-print("Booleans are :\n")
+print("Booleans are :")
 for x in boolean:
     print(x)
 
 print("\n\n\n")
 
-print("Floats are :\n")
+print("Floats are :")
 for x in floats:
     print(x)
 
 print("\n\n\n")
 
-print("Others are :\n")
+print("Others are :")
 for x in others:
     print(x)
 
